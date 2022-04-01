@@ -1,0 +1,21 @@
+---
+date: "2021-01-24"
+linkTitle: PPHS 528 Economic Evaluation of Health Programs
+summary: 
+title: "PPHS 528 Economic Evaluation of Health Programs"
+type: book
+---
+
+{{< toc hide_on="xl" >}}
+
+## Course description
+
+Concepts and methods used to carry out economic evaluations of health programs and interventions, including public health interventions, pharmaceuticals, and other health care interventions. Includes topics such as calculation of unit costs, measurement of quality-adjusted life years (QALYs) and assessment of uncertainty in cost-effectiveness analysis.
+
+## Instructor
+
+{{< mention "admin" >}}
+
+## Course materials
+
+Coming soon
