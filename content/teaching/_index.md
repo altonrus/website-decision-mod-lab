@@ -2,9 +2,9 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: Teaching
 type: page
 view: 2
 ---
 
-Alton teaches the following courses:
+Alton teaches the following courses at McGill:

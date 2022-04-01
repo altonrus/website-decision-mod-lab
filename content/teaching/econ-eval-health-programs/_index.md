@@ -1,7 +1,7 @@
 ---
 date: "2021-01-24"
 linkTitle: PPHS 528 Economic Evaluation of Health Programs
-summary: 
+summary: Concepts and methods used to carry out economic evaluations of health programs and interventions, including public health interventions, pharmaceuticals, and other health care interventions. **Next offered Fall 2022.**
 title: "PPHS 528 Economic Evaluation of Health Programs"
 type: book
 ---

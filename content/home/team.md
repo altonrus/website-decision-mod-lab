@@ -3,7 +3,7 @@ widget: people
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: The team
+title: Lab members
 
 content:
   # Choose which groups/teams of users to display.

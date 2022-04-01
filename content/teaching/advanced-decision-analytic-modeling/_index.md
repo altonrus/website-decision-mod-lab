@@ -1,7 +1,7 @@
 ---
 date: "2021-01-24"
 linkTitle: Advanced topics in decision-analytic modeling for health
-summary: 
+summary: Advanced methods used to model health policy decisions and conduct model-based health technology assessment, both theory and technical applications. **Coming Winter 2023; course number to be determined.**
 title: "Advanced topics in decision-analytic modeling for health"
 type: book
 ---
@@ -16,7 +16,7 @@ Advanced methods used to model health policy decisions and conduct model-based h
 **Target audience:** The course is targeted towards PhD students and advanced Masters students interested in conducting model-based analyses of health policies and health technologies in research
 
 
-Comming in Winter 2023
+Coming in Winter 2023
 
 
 ## Instructor

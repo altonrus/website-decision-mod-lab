@@ -31,4 +31,4 @@ Started in 2022, the Decision Modeling lab within the Clinical and Health Inform
 
 * Informing the use of blood donor data for population health surveillance
 * Developing new methods to manage risk iron deficiency in blood donors based on individual donors' risk
-* Assessing the health-economic impact of patient portal technology.
+* Assessing the impact of patient portal technology
