@@ -25,7 +25,7 @@ interests:
 - Health technology assessment
 organizations:
 - name: McGill University
-  url: https://www.mcgill.ca
+  url: "https://https://www.mcgill.ca/"
 role: Assistant Professor
 social:
 - icon: envelope

@@ -1,16 +1,17 @@
 ---
-interests:
+title: Wanjin (Jennifer) Li
+interests: #Add 2-3 interests here
 - Interest 1
 - Interest 2
 - Interest 3
 organizations:
 - name: McGill University
   url: "https://https://www.mcgill.ca/"
-role: PhD student
+role: MSc student
 social: #Remove hashtags and change the link if you want to use any of these
 - icon: envelope
   icon_pack: fas
-  link: mailto:jack.stanley@mail.mcgill.ca
+  link: mailto:wanjin.li@mail.mcgill.ca
 # - icon: desktop
 #   icon_pack: fas
 #   link: www.mcgill.ca
@@ -23,9 +24,9 @@ social: #Remove hashtags and change the link if you want to use any of these
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
-title: Jack Stanley
+
 superuser: false
 user_groups: ["student","lab-members"]
 ---
 
-Jack is a PhD student in the Quantitative Life Sciences Program.... REPLACE THIS WITH A SHORT BIO.
+Wanjin is an MSc student in Public Health... REPLACE THIS WITH A SHORT BIO.
