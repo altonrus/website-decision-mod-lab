@@ -27,7 +27,7 @@ design:
     padding: ["40px", "0", "40px", "0"]
 ---
 
-Started in 2022, the Decision Modeling lab within the Clinical and Health Informatics Research Group at McGill University has a mission of enabling the efficient and effective use of finite healthcare resources. To do so, we develop data-driven analyses that inform health policy and clinical decisions. Our interdisciplinary research uses methods from decision analysis, simulation, health economics, operations research, and data science. Current projects include:
+The Decision Modeling lab aims to enable the efficient and effective use of finite healthcare resources by developing data-driven analyses that inform health policy and clinical decisions. Our interdisciplinary research uses methods from decision analysis, simulation, health economics, operations research, and data science. Current projects include:
 
 * Informing the use of blood donor data for population health surveillance
 * Developing new methods to manage risk iron deficiency in blood donors based on individual donors' risk
