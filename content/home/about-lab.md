@@ -32,3 +32,5 @@ The Decision Modeling lab aims to enable the efficient and effective use of fini
 * Informing the use of blood donor data for population health surveillance
 * Developing new methods to manage risk iron deficiency in blood donors based on individual donors' risk
 * Assessing the impact of patient portal technology
+
+We are part of the [McGill Clinical and Health Informatics Research Group](mchi.mcgill.ca) and the [McGill School of Population and Global Health](https://www.mcgill.ca/spgh/) in Montreal, Quebec, Canada.
