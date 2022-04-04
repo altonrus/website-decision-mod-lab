@@ -40,5 +40,5 @@ Currently recruiting a postdoc to explore using blood donor data for population 
 {{% /callout %}}
 
 {{% callout note %}}
-If interested in our work, current and prospective McGill MSc and PhD students are encouraged to email their CVs to Alton [Details here](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/postdoc_ad_mchi_public_health_surveillance_mod_01_2022.pdf)
+Current or prospective McGill MSc and PhD students: if interested in our work, please [email your CV to Alton](https://decision-modeling-lab.netlify.app/#contact)
 {{% /callout %}}
