@@ -1,9 +1,10 @@
 ---
 title: Wanjin (Jennifer) Li
 interests: #Add 2-3 interests here
-- Interest 1
-- Interest 2
-- Interest 3
+- Health technology assessment
+- Economic evaluation
+- Public health data science
+
 organizations:
 - name: McGill University
   url: "https://https://www.mcgill.ca/"
@@ -12,6 +13,9 @@ social: #Remove hashtags and change the link if you want to use any of these
 - icon: envelope
   icon_pack: fas
   link: mailto:wanjin.li@mail.mcgill.ca
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/wanjin-jennifer-li-1a1202198/
 # - icon: desktop
 #   icon_pack: fas
 #   link: www.mcgill.ca
@@ -29,4 +33,4 @@ superuser: false
 user_groups: ["student","lab-members"]
 ---
 
-Wanjin is an MSc student in Public Health... REPLACE THIS WITH A SHORT BIO.
+I am a MScPH student at McGill University and completed my undergraduate study at Western University with an honour specialization in Epidemiology and Biostatistics. For my practicum project in summer 2022, I am assessing the impact of the Opal patient portal on operational outcomes at the Cedars Cancer Center. I am passionate about performing quantitative analyses to solve real-world problems in the healthcare field and exploring the intersection of computer science, data science, and public health.
