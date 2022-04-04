@@ -36,9 +36,9 @@ The Decision Modeling lab aims to enable the efficient and effective use of fini
 We are part of the [McGill Clinical and Health Informatics Research Group](mchi.mcgill.ca) and the [McGill School of Population and Global Health](https://www.mcgill.ca/spgh/) in Montreal, Quebec, Canada.
 
 {{% callout note %}}
-Currently recruiting a postdoc to explore using blood donor data for population health surveillance! [Details here](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/postdoc_ad_mchi_public_health_surveillance_mod_01_2022.pdf)
+We're recruiting a postdoc to explore using blood donor data for population health surveillance! [Details here](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/postdoc_ad_mchi_public_health_surveillance_mod_01_2022.pdf)
 {{% /callout %}}
 
 {{% callout note %}}
-Current or prospective McGill MSc and PhD students: if interested in our work, please [email your CV to Alton](https://decision-modeling-lab.netlify.app/#contact)
+Current or prospective McGill MSc and PhD students: if interested in our work, please [email your CV to Alton](https://decision-modeling-lab.netlify.app/#contact).
 {{% /callout %}}
