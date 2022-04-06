@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dick Menzies | Decision Modeling Lab</title>
+    <link>decision-modeling-lab.netlify.app/author/dick-menzies/</link>
+      <atom:link href="decision-modeling-lab.netlify.app/author/dick-menzies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dick Menzies</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/decision-modeling-lab.netlify.app/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
+      <title>Dick Menzies</title>
+      <link>decision-modeling-lab.netlify.app/author/dick-menzies/</link>
+    </image>
+    
+    <item>
+      <title>Active testing of groups at increased risk of acquiring SARS-CoV-2 in Canada: Costs and human resource needs</title>
+      <link>decision-modeling-lab.netlify.app/publication/campbell-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>decision-modeling-lab.netlify.app/publication/campbell-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

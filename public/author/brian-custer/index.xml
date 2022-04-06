@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Custer | Decision Modeling Lab</title>
+    <link>decision-modeling-lab.netlify.app/author/brian-custer/</link>
+      <atom:link href="decision-modeling-lab.netlify.app/author/brian-custer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Custer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/decision-modeling-lab.netlify.app/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
+      <title>Brian Custer</title>
+      <link>decision-modeling-lab.netlify.app/author/brian-custer/</link>
+    </image>
+    
+    <item>
+      <title>Individualized risk trajectories for iron-related adverse outcomes in repeat blood donors</title>
+      <link>decision-modeling-lab.netlify.app/publication/russell-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>decision-modeling-lab.netlify.app/publication/russell-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal portfolios of blood safety interventions: test, defer or modify?</title>
+      <link>decision-modeling-lab.netlify.app/publication/russell-2021-e/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>decision-modeling-lab.netlify.app/publication/russell-2021-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors driving availability of COVID‐19 convalescent plasma: Insights from a demand, production, and supply model</title>
+      <link>decision-modeling-lab.netlify.app/publication/russell-2021-c/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>decision-modeling-lab.netlify.app/publication/russell-2021-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Screening the blood supply for Zika virus in the 50 U.S. States and Puerto Rico: A cost-effectiveness analysis</title>
+      <link>decision-modeling-lab.netlify.app/publication/russell-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>decision-modeling-lab.netlify.app/publication/russell-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

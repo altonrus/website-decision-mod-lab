@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transfusion | Decision Modeling Lab</title>
+    <link>decision-modeling-lab.netlify.app/tag/transfusion/</link>
+      <atom:link href="decision-modeling-lab.netlify.app/tag/transfusion/index.xml" rel="self" type="application/rss+xml" />
+    <description>transfusion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/decision-modeling-lab.netlify.app/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
+      <title>transfusion</title>
+      <link>decision-modeling-lab.netlify.app/tag/transfusion/</link>
+    </image>
+    
+    <item>
+      <title>Screening the blood supply for Zika virus in the 50 U.S. States and Puerto Rico: A cost-effectiveness analysis</title>
+      <link>decision-modeling-lab.netlify.app/publication/russell-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>decision-modeling-lab.netlify.app/publication/russell-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

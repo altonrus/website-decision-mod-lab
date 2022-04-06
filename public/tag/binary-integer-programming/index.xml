@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binary integer programming | Decision Modeling Lab</title>
+    <link>decision-modeling-lab.netlify.app/tag/binary-integer-programming/</link>
+      <atom:link href="decision-modeling-lab.netlify.app/tag/binary-integer-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Binary integer programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/decision-modeling-lab.netlify.app/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
+      <title>Binary integer programming</title>
+      <link>decision-modeling-lab.netlify.app/tag/binary-integer-programming/</link>
+    </image>
+    
+    <item>
+      <title>Optimal portfolios of blood safety interventions: test, defer or modify?</title>
+      <link>decision-modeling-lab.netlify.app/publication/russell-2021-e/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>decision-modeling-lab.netlify.app/publication/russell-2021-e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
