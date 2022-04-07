@@ -27,18 +27,10 @@ design:
     padding: ["40px", "0", "40px", "0"]
 ---
 
-The Decision Modeling lab aims to enable the efficient and effective use of finite healthcare resources by developing data-driven analyses that inform health policy and clinical decisions. Our interdisciplinary research uses methods from decision analysis, simulation, health economics, operations research, and data science. Current projects include:
-
-* Informing the use of blood donor data for population health surveillance
-* Developing new methods to manage risk iron deficiency in blood donors based on individual donors' risk
-* Assessing the impact of patient portal technology
-
-We are part of the [McGill Clinical and Health Informatics Research Group](mchi.mcgill.ca) and the [McGill School of Population and Global Health](https://www.mcgill.ca/spgh/) in Montreal, Quebec, Canada.
+The Decision Modeling lab aims to enable the efficient and effective use of finite healthcare resources by developing data-driven analyses that inform health policy and clinical decisions. Our interdisciplinary research uses methods from decision analysis, simulation, health economics, operations research, and data science. We are part of the [McGill Clinical and Health Informatics Research Group](mchi.mcgill.ca) and the [McGill School of Population and Global Health](https://www.mcgill.ca/spgh/) in Montreal, Quebec, Canada.
 
 {{% callout note %}}
-We're recruiting a postdoc to explore using blood donor data for population health surveillance! [Details here](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/postdoc_ad_mchi_public_health_surveillance_mod_01_2022.pdf)
-{{% /callout %}}
+* [We're recruiting a postdoc](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/postdoc_ad_mchi_public_health_surveillance_mod_01_2022.pdf) to explore using blood donor data for population health surveillance!
 
-{{% callout note %}}
-Current or prospective McGill MSc and PhD students: if interested in our work, please [email your CV to Alton](https://decision-modeling-lab.netlify.app/#contact).
+* Current/prospective McGill MSc and PhD students, please [email your CV](https://decision-modeling-lab.netlify.app/#contact) if interested in the lab.
 {{% /callout %}}
