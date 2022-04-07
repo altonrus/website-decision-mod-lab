@@ -8,7 +8,7 @@ view: 2
 ---
 
 
-## Current and pending projects
+## Current projects
 
 Currently funded projects include:
 
@@ -17,6 +17,8 @@ Currently funded projects include:
 * Assessing the public health value of blood donor data with Bayesian modeling
 
 * Developing an individualized approach to managing risk of iron deficiency in repeat blood donors with machine learning + simulation
+
+## Pending projects
 
 Several **research projects that are pending funding decisions** will use methods from epidemiology, machine learning, health economics and mathematical modeling to inform decisions in health policy and clinical practice. Prospective group members should send an email to Alton with their CV so he can determine whether any of the pending projects are aligned with your interests.
 

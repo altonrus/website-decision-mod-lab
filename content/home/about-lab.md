@@ -27,7 +27,7 @@ design:
     padding: ["40px", "0", "40px", "0"]
 ---
 
-The Decision Modeling lab aims to enable the efficient and effective use of finite healthcare resources by developing data-driven analyses that inform health policy and clinical decisions. Our interdisciplinary research uses methods from decision analysis, simulation, health economics, operations research, and data science. We are part of the [McGill Clinical and Health Informatics Research Group](mchi.mcgill.ca) and the [McGill School of Population and Global Health](https://www.mcgill.ca/spgh/) in Montreal, Quebec, Canada.
+The Decision Modeling lab aims to enable the efficient and effective use of finite healthcare resources by developing data-driven analyses that inform health policy and clinical decisions. Our interdisciplinary research uses methods from decision analysis, simulation, health economics, operations research, epidemiology, and data science. We are part of the [McGill Clinical and Health Informatics Research Group](mchi.mcgill.ca) and the [McGill School of Population and Global Health](https://www.mcgill.ca/spgh/) in Montreal, Quebec, Canada.
 
 {{% callout note %}}
 * [We're recruiting a postdoc](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/postdoc_ad_mchi_public_health_surveillance_mod_01_2022.pdf) to explore using blood donor data for population health surveillance!
