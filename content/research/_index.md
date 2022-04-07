@@ -12,9 +12,11 @@ view: 2
 
 Currently funded projects include:
 
-* Assessing the impact of the Opal Patient Portal in the McGill University Health Centre
+* Analyzing the operational impact of a patient portal with propensity score matching
 
-* Assessing the public health value of blood donor data
+* Assessing the public health value of blood donor data with Bayesian modeling
+
+* Developing an individualized approach to managing risk of iron deficiency in repeat blood donors with machine learning + simulation
 
 Several **research projects that are pending funding decisions** will use methods from epidemiology, machine learning, health economics and mathematical modeling to inform decisions in health policy and clinical practice. Prospective group members should send an email to Alton with their CV so he can determine whether any of the pending projects are aligned with your interests.
 
