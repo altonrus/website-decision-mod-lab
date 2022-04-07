@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Decision Modeling Lab</title>
-    <link>decision-modeling-lab.netlify.app/research/</link>
-      <atom:link href="decision-modeling-lab.netlify.app/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mchi.mcgill.ca/decision-modeling-lab/research/</link>
+      <atom:link href="http://mchi.mcgill.ca/decision-modeling-lab/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright>
     <image>
-      <url>/decision-modeling-lab.netlify.app/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
+      <url>http://mchi.mcgill.ca/decision-modeling-lab/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
       <title>Research</title>
-      <link>decision-modeling-lab.netlify.app/research/</link>
+      <link>http://mchi.mcgill.ca/decision-modeling-lab/research/</link>
     </image>
     
   </channel>

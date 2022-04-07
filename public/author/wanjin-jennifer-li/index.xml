@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wanjin (Jennifer) Li | Decision Modeling Lab</title>
-    <link>decision-modeling-lab.netlify.app/author/wanjin-jennifer-li/</link>
-      <atom:link href="decision-modeling-lab.netlify.app/author/wanjin-jennifer-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mchi.mcgill.ca/decision-modeling-lab/author/wanjin-jennifer-li/</link>
+      <atom:link href="http://mchi.mcgill.ca/decision-modeling-lab/author/wanjin-jennifer-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Wanjin (Jennifer) Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright>
     <image>
-      <url>/decision-modeling-lab.netlify.app/author/wanjin-jennifer-li/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://mchi.mcgill.ca/decision-modeling-lab/author/wanjin-jennifer-li/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Wanjin (Jennifer) Li</title>
-      <link>decision-modeling-lab.netlify.app/author/wanjin-jennifer-li/</link>
+      <link>http://mchi.mcgill.ca/decision-modeling-lab/author/wanjin-jennifer-li/</link>
     </image>
     
   </channel>

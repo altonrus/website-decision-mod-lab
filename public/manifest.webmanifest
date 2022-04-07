@@ -5,14 +5,14 @@
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/decision-modeling-lab.netlify.app/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_192x192_fill_lanczos_center_3.png",
+    "src": "/decision-modeling-lab/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/decision-modeling-lab.netlify.app/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png",
+    "src": "/decision-modeling-lab/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/decision-modeling-lab.netlify.app/?utm_source=web_app_manifest"
+  "start_url": "/decision-modeling-lab/?utm_source=web_app_manifest"
 }

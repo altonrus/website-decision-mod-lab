@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Douglas K. Owens | Decision Modeling Lab</title>
-    <link>decision-modeling-lab.netlify.app/author/douglas-k.-owens/</link>
-      <atom:link href="decision-modeling-lab.netlify.app/author/douglas-k.-owens/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mchi.mcgill.ca/decision-modeling-lab/author/douglas-k.-owens/</link>
+      <atom:link href="http://mchi.mcgill.ca/decision-modeling-lab/author/douglas-k.-owens/index.xml" rel="self" type="application/rss+xml" />
     <description>Douglas K. Owens</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/decision-modeling-lab.netlify.app/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
+      <url>http://mchi.mcgill.ca/decision-modeling-lab/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
       <title>Douglas K. Owens</title>
-      <link>decision-modeling-lab.netlify.app/author/douglas-k.-owens/</link>
+      <link>http://mchi.mcgill.ca/decision-modeling-lab/author/douglas-k.-owens/</link>
     </image>
     
     <item>
       <title>Cost effectiveness of endoscopic resection vs transanal resection of complex benign rectal polyps</title>
-      <link>decision-modeling-lab.netlify.app/publication/yu-2019/</link>
+      <link>http://mchi.mcgill.ca/decision-modeling-lab/publication/yu-2019/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>decision-modeling-lab.netlify.app/publication/yu-2019/</guid>
+      <guid>http://mchi.mcgill.ca/decision-modeling-lab/publication/yu-2019/</guid>
       <description></description>
     </item>
     

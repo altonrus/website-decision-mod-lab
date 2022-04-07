@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advanced topics in decision-analytic modeling for health | Decision Modeling Lab</title>
-    <link>decision-modeling-lab.netlify.app/teaching/advanced-decision-analytic-modeling/</link>
-      <atom:link href="decision-modeling-lab.netlify.app/teaching/advanced-decision-analytic-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mchi.mcgill.ca/decision-modeling-lab/teaching/advanced-decision-analytic-modeling/</link>
+      <atom:link href="http://mchi.mcgill.ca/decision-modeling-lab/teaching/advanced-decision-analytic-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Advanced topics in decision-analytic modeling for health</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/decision-modeling-lab.netlify.app/teaching/advanced-decision-analytic-modeling/featured.jpg</url>
+      <url>http://mchi.mcgill.ca/decision-modeling-lab/teaching/advanced-decision-analytic-modeling/featured.jpg</url>
       <title>Advanced topics in decision-analytic modeling for health</title>
-      <link>decision-modeling-lab.netlify.app/teaching/advanced-decision-analytic-modeling/</link>
+      <link>http://mchi.mcgill.ca/decision-modeling-lab/teaching/advanced-decision-analytic-modeling/</link>
     </image>
     
   </channel>

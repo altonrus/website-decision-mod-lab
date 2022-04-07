@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Markdown | Decision Modeling Lab</title>
-    <link>decision-modeling-lab.netlify.app/tag/r-markdown/</link>
-      <atom:link href="decision-modeling-lab.netlify.app/tag/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://mchi.mcgill.ca/decision-modeling-lab/tag/r-markdown/</link>
+      <atom:link href="http://mchi.mcgill.ca/decision-modeling-lab/tag/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>R Markdown</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/decision-modeling-lab.netlify.app/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
+      <url>http://mchi.mcgill.ca/decision-modeling-lab/media/icon_hu0efe56008ffd6c9df4c782497badffad_45333_512x512_fill_lanczos_center_3.png</url>
       <title>R Markdown</title>
-      <link>decision-modeling-lab.netlify.app/tag/r-markdown/</link>
+      <link>http://mchi.mcgill.ca/decision-modeling-lab/tag/r-markdown/</link>
     </image>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>decision-modeling-lab.netlify.app/post/2020-12-01-r-rmarkdown/</link>
+      <link>http://mchi.mcgill.ca/decision-modeling-lab/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>decision-modeling-lab.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>http://mchi.mcgill.ca/decision-modeling-lab/post/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -53,7 +53,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;decision-modeling-lab.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://mchi.mcgill.ca/decision-modeling-lab/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
