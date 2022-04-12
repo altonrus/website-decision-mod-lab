@@ -48,8 +48,9 @@ social:
 #   link: https://www.linkedin.com/
 superuser: true
 title: W. Alton Russell, PhD
+weight: 30
 ---
 
 Alton joined the McGill School of Population and Global Health as an Assistant Professor in 2022. As a researcher, Alton has developed decision analytic models and data-driven analyses for multiple areas of health policy and clinical practice, including blood donation and transfusion, managing pediatric kidney disease, opioid use disorder and overdose,  and gastroenterology.
 
-You can [view his CV here](https://decision-modeling-lab.netlify.app/pdfs/russell-wa-cv.pdf).
+You can [view his CV here](http://mchi.mcgill.ca/decision-modeling-lab//pdfs/russell-wa-cv.pdf).
