@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taro | Decision Modeling Lab</title>
+    <link>http://mchi.mcgill.ca/decision-modeling-lab/author/taro/</link>
+      <atom:link href="http://mchi.mcgill.ca/decision-modeling-lab/author/taro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 by W. Alton Russell, PhD</copyright>
+    <image>
+      <url>http://mchi.mcgill.ca/decision-modeling-lab/author/taro/avatar_hu1f97e134dc918f51c89361be8f3e18d1_1097976_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Taro</title>
+      <link>http://mchi.mcgill.ca/decision-modeling-lab/author/taro/</link>
+    </image>
+    
+  </channel>
+</rss>
