@@ -30,7 +30,9 @@ design:
 The Decision Modeling lab aims to enable the efficient and effective use of finite healthcare resources by developing data-driven analyses that inform health policy and clinical decisions. Our interdisciplinary research uses methods from decision analysis, simulation, health economics, operations research, epidemiology, and data science. We are part of the [McGill Clinical and Health Informatics Research Group](mchi.mcgill.ca) and the [McGill School of Population and Global Health](https://www.mcgill.ca/spgh/) in Montreal, Quebec, Canada.
 
 {{% callout note %}}
-* [We're recruiting a postdoc](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/postdoc_ad_mchi_public_health_surveillance_mod_01_2022.pdf) to explore using blood donor data for population health surveillance!
-
-* Current/prospective McGill MSc and PhD students, please [email your CV](https://decision-modeling-lab.netlify.app/#contact) if interested in the lab.
+We're recruiting postdocs!
+  * [Postdoc in Machine Learning, Healthcare Analytics, and Optimization.](http://mchi.mcgill.ca/decision-modeling-lab//pdfs/donation-interval-postdoc.pdf) Use machine learning and optimization to maximize blood collections while managing risks of iron deficiency in repeat blood donors. Targeting candidates with a background in operations research or computer science background.
+  * [Postdoc in Public Health Surveillance Modeling.](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/postdoc_ad_mchi_public_health_surveillance_mod_01_2022.pdf) Inform the use of blood donor data for population health surveillance. Targeting candidates with a background in epidemiology or biostatistics.
 {{% /callout %}}
+
+Current/prospective McGill MSc and PhD students, please [email your CV](http://mchi.mcgill.ca/decision-modeling-lab/#contact) if interested in the lab.
