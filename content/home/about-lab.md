@@ -31,7 +31,7 @@ The Decision Modeling lab aims to enable the efficient and effective use of fini
 
 {{% callout note %}}
 We're recruiting postdocs!
-  * [Postdoc in Machine Learning, Healthcare Analytics, and Optimization.](http://mchi.mcgill.ca/decision-modeling-lab//pdfs/donation-interval-postdoc.pdf) Use machine learning and optimization to maximize blood collections while managing risks of iron deficiency in repeat blood donors. Targeting candidates with a background in operations research or computer science background.
+  * [Postdoc in Machine Learning, Healthcare Analytics, and Optimization.](http://mchi.mcgill.ca/decision-modeling-lab//pdfs/donation-interval-postdoc.pdf) Use machine learning and optimization to maximize blood collections while managing risks of iron deficiency in repeat blood donors. Targeting candidates with a background in operations research or computer science.
   * [Postdoc in Public Health Surveillance Modeling.](https://www.mcgill.ca/epi-biostat-occh/files/epi-biostat-occh/postdoc_ad_mchi_public_health_surveillance_mod_01_2022.pdf) Inform the use of blood donor data for population health surveillance. Targeting candidates with a background in epidemiology or biostatistics.
 {{% /callout %}}
 
