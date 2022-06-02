@@ -29,8 +29,10 @@ Our group works hard to produce research that is informative, rigorous, transpar
 
 ## Thank you to our funders
 
-Research in the decision modeling lab is made possible by funding from:
+Research in the decision modeling lab is supported by grants from:
 
 * [Canadian Blood Services](www.blood.ca)
 
 * [The National Blood Foundation](https://www.aabb.org/national-blood-foundation)
+
+* [Fonds de recherche - Santé](https://frq.gouv.qc.ca/en/health/)
