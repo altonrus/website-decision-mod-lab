@@ -1,8 +1,9 @@
 ---
 date: "2021-01-24"
-linkTitle: Advanced topics in decision-analytic modeling for health
-summary: Advanced methods used to model health policy decisions and conduct model-based health technology assessment, both theory and technical applications. **Coming Winter 2023; course number to be determined.**
-title: "Advanced topics in decision-analytic modeling for health"
+linkTitle: EPIB 676 Advanced Topics in Decision-Analytic Modeling for Health
+summary: Advanced methods used to model health policy decisions and conduct model-based health technology assessment, both theory and technical applications. **Next offered Winter 2023**
+
+title: "EPIB 676 Advanced Topics in Decision-Analytic Modeling for Health"
 type: book
 ---
 
@@ -25,4 +26,4 @@ Coming in Winter 2023
 
 ## Course materials
 
-Coming soon
+The course is still under development, but you can view the most up-to-date materials on Github at <https://github.com/altonrus/epib-676>

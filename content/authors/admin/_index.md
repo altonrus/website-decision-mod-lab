@@ -51,6 +51,11 @@ title: W. Alton Russell, PhD
 weight: 30
 ---
 
-Alton joined the McGill School of Population and Global Health as an Assistant Professor in 2022. As a researcher, Alton has developed decision analytic models and data-driven analyses for multiple areas of health policy and clinical practice, including blood donation and transfusion, managing pediatric kidney disease, opioid use disorder and overdose,  and gastroenterology.
+Alton joined the McGill School of Population and Global Health as an Assistant Professor in 2022. As a researcher, Alton has developed decision analytic models and data-driven analyses for multiple areas of health policy and clinical practice, including blood donation and transfusion, managing pediatric kidney disease, opioid use disorder and overdose,  and gastroenterology. Alton is also:
+
+* Associated investigator, [Research Institute of the McGill University Health Centre (RI-MUHC)](https://rimuhc.ca/)
+* Researcher, [McGill Quantitative Life Sciences program](https://www.mcgill.ca/qls/)
+* Scientific advisor, [COVID-19 Immunity Task Force](https://www.covid19immunitytaskforce.ca/) 
+* Member, [Group for Research in Decision Analysis (GERAD)](https://www.gerad.ca/en/people)
 
 You can [view his CV here](http://mchi.mcgill.ca/decision-modeling-lab//pdfs/russell-wa-cv.pdf).
