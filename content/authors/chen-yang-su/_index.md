@@ -27,7 +27,7 @@ social: #Remove hashtags and change the link if you want to use any of these
   link: https://scholar.google.com/citations?user=KJGE-kYAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://chenyangsu.github.io/
+  link: https://github.com/chenyangsu
 
 superuser: false
 user_groups: ["students","lab-members"]
