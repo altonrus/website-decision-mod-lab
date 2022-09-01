@@ -7,7 +7,7 @@ interests: #Add 2-3 interests here
 organizations:
 - name: McGill University
   url: "https://https://www.mcgill.ca/"
-role: BSc student
+role: "Summer '22 BSc student"
 social: #Remove hashtags and change the link if you want to use any of these
 - icon: envelope
   icon_pack: fas
@@ -29,8 +29,10 @@ social: #Remove hashtags and change the link if you want to use any of these
 #   link: https://github.com/gcushen
 
 superuser: false
-user_groups: ["students","lab-members"]
+user_groups: ["students","lab-alums"]
 weight: 30
 ---
 
-I am an undergraduate student at McGill University, majoring in statistics and minoring in finance. I am passionate about using data analysis to solve real-world problems and interested in interdisciplinary studying in data science,finance, and public health .
+Yangyuru completed a summer project with the lab in 2022.
+
+I am an undergraduate student at McGill University, majoring in statistics and minoring in finance. I am passionate about using data analysis to solve real-world problems and interested in interdisciplinary studying in data science,finance, and public health.
